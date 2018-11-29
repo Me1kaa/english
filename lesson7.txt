@@ -1,0 +1,30 @@
+1 Joseph Turner’s paintings are capture of a time in history. iconic
+2 Thomas Moran’s paintings really revealing the beauty of the Rocky Mountains. revealing
+3 Andy Warhol created evocative images using tins of soup. They’re still famous today.  capture
+4 Anna Delany’s street photography is very iconic about life in New York. evocative
+5 Banksy’s street art is provocative and designed to get us questioning our society. striking
+5 Clarice Cliff was well known for her bold, striking  use of colour in her ceramics. provocative
+
+34.2
+1 She was debating whether to invite Jeremy over for dinner.
+2 The council is meeting this morning to discuss whether to increase local taxes.
+3 Apparently Louis and Eva are considering whether to emigrate to Australia.
+4 I have to choose whether to get a job or apply to go to college.
+5 Scientists will have to decide soon whether to start testing the new drugs on people
+
+34.3
+The villagers warned me what the conditions were like at higher altitudes, and
+advised *me* to take enough food for a week. There was some discussion through the day
+*as to whether* the snow would arrive before my descent from the mountain, but I never
+imagined how hard the conditions would be. In the morning they showed me *how to* get to the track up the mountain.
+
+When the snow started falling it was very light, and I couldn’t decide *whether* to carry on
+or go back down. Soon, however, I couldn’t see where to go.
+
+I wondered *whether* to retrace my steps and try to find th e track again, but by the tim e
+I decided *that* I should go back, the track had disappeared.
+
+As the snow got heavier I began to realise *that* my life was in danger. Fortunately,
+my years in the Andes had taught *me* what to do in extreme conditions. I knew that
+there was a shepherd’s hut somewhere on this side of the mountain that I could
+shelter in, but I didn’t know *whether* it was nearby or miles away.
