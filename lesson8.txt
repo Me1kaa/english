@@ -1,0 +1,56 @@
+WB p8 e.2
+1 - e
+2 - f
+3 - c
+4 - b
+5 - d
+6 - a
+
+WB p8 e.3
+1)
+I guess it could be a some kind of lizard.
+I guess it could be a scales.
+2)
+I'd hazard a guess that it's a lifeforms under the microscope.
+I'd hazard a guess that it's a some kind of ribbon in the knot.
+3)
+I wonder if it could be ribbon
+I wonder if it could be scales
+4)
+I recon it's a lifeforms
+I recon it's a crocodile
+5)
+It seems to me that it's a crocodile
+It seems to me that it's a rope in the knot
+6)
+It gives me an impression that it's a some kind of lifeforms.
+It gives me an impression that it's crocodile skin bag in the zoom.
+7)
+It appears to be a crocodile
+It appears to be a lifeforms
+8)
+If I had to make a guess, I'd say that it's a lizard.
+If I had to make a guess, I'd say that it's a ribbon.
+
+35.2
+1) Engineers hope that they have solved the problems with the bridge now that new supports have been built, and they plan to reopen it next week.
+2) The current law states that an employee has the right to appeal against dismissal.
+3) Simon is already a good tennis player, but he accepts that he still has a lot to learn.
+4) 1 understand that you want to buy a second-hand car. Your brother just told me.
+5) Health officials warn that anyone who looks directly at the sun during an eclipse may put their sight at risk.
+6) They reassured us that the path is/was perfectly safe.
+
+35.3
+When I mentioned to Nokes that he had been seen in a local shop last Monday, he protested that he *was* at home all day.
+He swears that he didn’t own a blue Ford Focus. He claimed that he had been to the paint factory two weeks ago to look for work.
+Nokes alleges that he is a good friend of Jamie Barnes. He insisted that he didn’t telephone Barnes last Monday morning.
+When I pointed out to Nokes that a large quantity of paint had been found in his house, he replied that he *was storing* it for a friend.
+
+At the beginning of the interview I reminded Barnes that he is entitled to have a lawyer present.
+He denied that he knew anyone by the name of Daniel Nokes.
+Barnes confirmed that he *was* in the area of the paint factory last Monday, but said that he *was visiting* his mother.
+He admitted that he *was walking* along New Street at around ten.
+He maintains that he *is* a very honest person and would never be involved in anything illegal.
+
+
+
