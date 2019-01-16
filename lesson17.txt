@@ -1,0 +1,34 @@
+78.1
+Yes, Turner's supermarket in Carter Road.
+Yes, the Crown in Park Road
+Yes, St.Peter's church in Market street
+Yes, the City Museum in George street
+Yes, Blackstone's books in Forest avenue
+Yes, Mario's pizza in George street
+Yes, Victoria Park in Park Road
+
+78.2
+The Eiffel Tower
+Buckingham Palace
+The White house
+The Kremlin
+Broadway
+The Acropolis
+Gatwick Airport
+
+78.3
+Central Park
+St James's Park
+The Imperial Hotel Baker Street
+Dublin Airport
+Liverpool University
+Harrison's
+the Park Plaza
+The Statue of Liberty, New York Harbour
+the Science Museum
+IBM, British Telecom
+The Classic
+The Great Wall
+The Times
+Cambridge University Press
+The College of Art
