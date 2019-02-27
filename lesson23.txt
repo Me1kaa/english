@@ -1,0 +1,43 @@
+40.3
+1) comes
+2) ok
+3) reports
+4) is
+5) ok
+6) ok
+7) has
+8) is
+9) ok
+10) is
+
+ex 9, p 245
+1) wants
+2) are
+3) live
+4) points
+5) prefers
+6) loves
+7) claim
+8) go
+9) comes
+10) are
+11) are
+12) shuts
+13) suspect
+14) are
+15) appears
+16) are
+17) is
+18) plans
+19) is
+20) provides
+21) gets
+22) are
+23) speaks
+24) has
+25) are
+26) have
+27) has
+28) isn’t
+29) are
+30) is
