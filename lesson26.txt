@@ -1,0 +1,76 @@
+48.1
+1) If you’re going to the library, could you take back some books that I've finished reading?
+2) The price of coffee is at an all-time low.
+3) Tony knows more about jazz than anyone I've ever met.
+4) The door kept flying open in the wind so I tied it up with string.
+5) Some sports are dangerous.
+6) I need to get some bread from the supermarket.
+7) Money can't buy you happiness.
+8) Some children are taller than expected at a given age.
+
+48.2
+2) Some of 30% buses have been found to be unsafe.
+3) An unexploded bomb has been found some five miles from the centre of Newham.
+4) Some 25% of electricity will come from wind energy by 2025.
+5) Some 200 jobs are to be lost at the Encon steelworks.
+
+48.3
+
+2) He’s probably playing some videogames.
+3) Maybe I lent it to some friends.
+4) I think it's in some shop or restaurant.
+5) Perhaps she's got to finish some job.
+
+48.4
+1) any
+2) some
+3) something
+4) someone
+5) anything
+6) anyone
+7) any
+8) any
+9) some
+10) anyone
+
+10 p246
+1)
+a) a/one
+b) a/one
+c) one
+2)
+a) the
+b) a
+c) an
+3)
+a) the
+b) the
+c) the
+4)
+a) the
+b) some
+c) -
+5)
+a) the
+b) some
+c) some
+6)
+a) some
+b) the
+c) -
+7)
+a) An
+b) the
+c) the
+8)
+a) the
+b) a/one
+c) a
+9)
+a) the
+b) -
+c) -
+10)
+a) -
+b) a
+c) a
