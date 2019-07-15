@@ -1,0 +1,32 @@
+138.1
+2) eats out
+3) moved out
+4) drop in
+5) checked in
+6) cut out
+7) plug the iron in
+8) filling in
+9) left out
+10) cross out
+11) dropped out
+138.2
+2) checked into
+3) checked in
+4) got out
+5) broke into
+6) drop out of
+138.3
+2) dropped out
+3) got in
+4) left out
+5) joined in
+6) eating out
+7) taken in
+8) dropped in
+9) leave out
+
+138.4
+2) Fill it in
+3) cross it out
+4) took me in
+5) let us in
