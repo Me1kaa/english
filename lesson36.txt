@@ -1,0 +1,39 @@
+133.1
+2) about
+3) for
+4) to
+5) for
+6) about
+7) -
+8) about
+9) -
+10) for
+11) to
+12) about
+13) for
+14) to
+
+133.2
+2) of
+3) about
+4) for
+5) of
+6) for
+7) about
+8) -
+
+133.3
+2) looking for
+3) was looking after
+4) looking for
+5) look for
+6) looks after
+
+133.4
+2) wait for
+3) talk about
+4) asked for
+5) applied for
+6) do about
+7) looks after
+8) left for
