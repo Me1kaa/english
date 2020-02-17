@@ -1,30 +1,19 @@
-Essay;
-
-    // rephrase
-    // Majority of people say that - opinion.
-    // Scientists claim // believe // suggest // have an opinion - technology.
-
-    //The people who graduate from
-
-	Many people say that after leaving school or university, young people should choose a job or career that they love,
-rather than one that pays the best salary. That's a statement I can't disagree with. First of all, money is not a silver
-bullet (against/to) every problem you have. Secondly, be ( being/to be ) a prisoner of a job you don't like is the worst thing ever.( a lot of people agree with me )
-	Have you ever noticed that rich people also suffer from apathy, depression and other mental problems?
-That's the point that money sometimes can't make you happy. Avoiding those issues is hard work for every one of us,
-and choosing the right career, which gives you positive emotional impact, is one of the first steps to your happiness.
-The right career will provide targets for you that you will be trying to reach and develop yourself.
-	On the other hand, you can care only about money(give to much importance to money) and do routine, tedious work you don't like. After university,
-
-//Not so formal, very personal.
-I also chose the wrong job and was suffering for some period, although the salary was excellent. That gives me
-nothing except regrets, and sometimes I think that having a time machine would be an excellent option to sort
-the things out in my past, but that's a real-life, not a SCI-FI story.
-	But also I can understand myself and people who are choosing such jobs. After university, many people don't
-know what they want to do, and they sort opportunities according to the salary. And the negative experience is not always bad.
-Sometimes it gives you a hard punch, and you start moving fast, than change different jobs and finding the one you love.
-
-	So, as a conclusion, I want to say that ideally, you should choose your occupation during university education
-and not run for the money, but if you weren't able to do that this is not the end, try different things.
-(write a conclusion)
-In the end, you'll find yourself, try and try and try.
-//I should write a person ideas (to sum up, to conclude, I believe, in my opinion) // Choose the one of the things.
+	Majority of people has a point of view that social networks like Facebook, Instagram have a terrible impact on
+individuals and society in general.  In some kind that's a true statement, because many people start living in those sites,
+spending the majority of the time. However, we should not forget that social networks help us to communicate, find new people,
+to develop marketing, and gives easy access to education.
+	I agree that people sometimes waste too much time surfing photos, arguing in useless discussions, stalking the
+people and do so much unnecessary things. Sometimes, social networks can be dangerous in a real way, especially for
+people who post too much information about themselves: where they live, spend time, study and also provides visual
+information by photos and videos. I've heard about accidents of kidnapping people using data from social networks.
+That can be a danger and being aware is the best weapon in avoiding such situations.
+	Despite all the cons, there are some good things about social networks. They are in general hard systems technically,
+and all stimulate progress in computer science, especially in building data warehouses, graph databases and content
+delivery systems. If we put technical things aside, networks help people to communicate, and sometimes they even support
+to create families. If you ask your friends, one hundred percent that they will tell you such stories about people who met
+on Facebook. Also, there are many announcements of exciting events in your area, advertisement of products by stores.
+If you want to study something, you're welcome: find a suitable group and start learning.
+	To conclude, I agree with the dangerous impact of social networks and being smart and cautious is not a bad idea.
+But on the other hand, without them our lives would be more difficult and more annoying, progress wouldn't be so fast,
+and education wouldn't be so easy to find. As in every aspect of our lives, there are pros and cons, and every final
+decision depends on us. Don't afraid of progress and don't be careless.
